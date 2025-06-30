@@ -1,3 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/mufasasx/NO-LAG/refs/heads/main/9335f9e607eaf69873e334764dfa8fed.txt"))()
-
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua"))()
